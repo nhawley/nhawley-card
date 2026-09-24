@@ -1,0 +1,22 @@
+{
+  "name": "nhawley",
+  "version": "1.0.0",
+  "description": "Run: npx nhawley",
+  "bin": {
+    "nhawley": "bin/card.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Nathan Hawley III",
+  "homepage": "https://nhawley.github.io",
+  "license": "MIT",
+  "keywords": [
+    "card",
+    "npx",
+    "business-card"
+  ]
+}
