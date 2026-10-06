@@ -1,6 +1,7 @@
 {
   "name": "nhawley",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": "https://github.com/nhawley/nhawley-card",
   "description": "Run: npx nhawley",
   "bin": {
     "nhawley": "bin/card.js"
